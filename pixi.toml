@@ -47,5 +47,5 @@ h5py = "*"
 pillow = "*"
 pip = "*"
 plotly = "5.*"
-
-
+ipyvolume = "*"
+ipyvuetify = "*"

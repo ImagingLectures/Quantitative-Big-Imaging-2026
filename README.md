@@ -4,19 +4,19 @@ The course web page [is here](https://imaginglectures.github.io/Quantitative-Big
 
 ## Installing pixi environment
 ### MacOS
-Install the pixi enviroment
+#### Install the pixi enviroment
 ```
 curl -fsSL https://pixi.sh/install.sh | sh
 ```
 
-Install the dependencies
+#### Install the dependencies
 ```
 pixi install
 pixi run pip install tensorflow-macos tensorflow-metal tensorflow-datasets```
 pixi run jupyter-contrib-nbextension install --user
 ```
 
-Run a jupyter notebook
+#### Run a jupyter notebook
 ```
 pixi run jupyter-notebook
 ```
