@@ -2,3 +2,4 @@ format: jb-article
 root: preface
 sections:
 - file: 09-DynamicExperiments
+- file: 09-Visualization
