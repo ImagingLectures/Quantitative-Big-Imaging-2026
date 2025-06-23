@@ -1,4 +1,10 @@
-jupyter-book build Lectures/Lecture-05 --builder pdflatex
+#!/bin/bash
+
+if command -v pixi &> /dev/null && pixi run which "jupyter-book" &> /dev/null; then
+    pixi run jupyter-book build Lectures/Lecture-05 --builder pdflatex
+else
+    jupyter-book build Lectures/Lecture-05 --builder pdflatex
+fi
 
 
 gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/ebook \

@@ -1,5 +1,4 @@
 #!/bin/bash
-# Usage: save as run-pytest.sh, make it executable
 
 if command -v pixi &> /dev/null && pixi run which "jupyter-book" &> /dev/null; then
     pixi run jupyter-book build Lectures/Lecture-11 --builder pdflatex
