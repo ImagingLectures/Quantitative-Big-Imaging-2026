@@ -6,9 +6,9 @@
     "date":"20 Feb",
     "notebook":[{
         "label":"Part 1",
-        "link":"ImagingLectures/Quantitative-Big-Imaging-2025/blob/main/Lectures/Lecture-01/01-Introduction.ipynb"
+        "link":"ImagingLectures/Quantitative-Big-Imaging-2026/blob/main/Lectures/Lecture-01/01-Introduction.ipynb"
         }],
-    "pdf":"https://imaginglectures.github.io/Quantitative-Big-Imaging-2025/lecturenotes/QBI-Lecture01-Introduction.pdf",
+    "pdf":"https://imaginglectures.github.io/Quantitative-Big-Imaging-2026/lecturenotes/QBI-Lecture01-Introduction.pdf",
     "videos":[{
                 "label":"Part 1",
                 "link":"https://youtu.be/9RUx_-TzFw4",
@@ -19,7 +19,7 @@
                 "link":"https://youtu.be/RlGglF21KaM",
                 "icon":"figures/YouTube.svg"
             }],
-    "exercises":"https://github.com/ImagingLectures/Quantitative-Big-Imaging-2025/tree/main/Exercises/01-Images"
+    "exercises":"https://github.com/ImagingLectures/Quantitative-Big-Imaging-2026/tree/main/Exercises/01-Images"
 },
 {
     "index":2,
@@ -28,9 +28,9 @@
     "date":"27 Feb",
     "notebook":[{
         "label":"Part 1",
-        "link":"ImagingLectures/Quantitative-Big-Imaging-2025/blob/main/Lectures/Lecture-02/02-Datasets.ipynb"
+        "link":"ImagingLectures/Quantitative-Big-Imaging-2026/blob/main/Lectures/Lecture-02/02-Datasets.ipynb"
         }],
-    "pdf":"https://imaginglectures.github.io/Quantitative-Big-Imaging-2025/lecturenotes/QBI-Lecture02-Datasets.pdf",
+    "pdf":"https://imaginglectures.github.io/Quantitative-Big-Imaging-2026/lecturenotes/QBI-Lecture02-Datasets.pdf",
     "videos":[{
                 "label":"Part 1",
                 "link":"https://youtu.be/Jda0TScDPnw",
@@ -41,7 +41,7 @@
                 "link":"https://youtu.be/CzulQD9j1w4",
                 "icon":"figures/YouTube.svg"
             }],
-    "exercises":"https://github.com/ImagingLectures/Quantitative-Big-Imaging-2025/tree/main/Exercises/02-Augmentation"
+    "exercises":"https://github.com/ImagingLectures/Quantitative-Big-Imaging-2026/tree/main/Exercises/02-Augmentation"
 },
 {
     "index":3,
@@ -50,9 +50,9 @@
     "date":"6 Mar",
     "notebook":[{
         "label":"Part 1",
-        "link":"ImagingLectures/Quantitative-Big-Imaging-2025/blob/main/Lectures/Lecture-03/03-ImageEnhancement.ipynb"
+        "link":"ImagingLectures/Quantitative-Big-Imaging-2026/blob/main/Lectures/Lecture-03/03-ImageEnhancement.ipynb"
         }],
-    "pdf":"https://imaginglectures.github.io/Quantitative-Big-Imaging-2025/lecturenotes/QBI-Lecture03-ImageEnhancement.pdf",
+    "pdf":"https://imaginglectures.github.io/Quantitative-Big-Imaging-2026/lecturenotes/QBI-Lecture03-ImageEnhancement.pdf",
     "videos":[{
                 "label":"Part 1a",
                 "link":"https://youtu.be/n0zyljMuVO4",
@@ -68,7 +68,7 @@
                 "link":"https://youtu.be/qqy8ObfL3zc",
                 "icon":"figures/YouTube.svg"
             }],
-    "exercises":"https://github.com/ImagingLectures/Quantitative-Big-Imaging-2025/blob/main/Exercises/03-ImageEnhancement"
+    "exercises":"https://github.com/ImagingLectures/Quantitative-Big-Imaging-2026/blob/main/Exercises/03-ImageEnhancement"
 },
 {
     "index":4,
@@ -77,13 +77,13 @@
     "date":"13 Mar",
     "notebook":[{
         "label":"Part 1",
-        "link":"ImagingLectures/Quantitative-Big-Imaging-2025/blob/main/Lectures/Lecture-04/04-BasicSegmentation.ipynb"
+        "link":"ImagingLectures/Quantitative-Big-Imaging-2026/blob/main/Lectures/Lecture-04/04-BasicSegmentation.ipynb"
         },
         {
         "label":"Part 2",
-        "link":"ImagingLectures/Quantitative-Big-Imaging-2025/blob/main/Lectures/Lecture-04/04-BasicSegmentation_Part2.ipynb"    
+        "link":"ImagingLectures/Quantitative-Big-Imaging-2026/blob/main/Lectures/Lecture-04/04-BasicSegmentation_Part2.ipynb"    
         }],
-    "pdf":"https://imaginglectures.github.io/Quantitative-Big-Imaging-2025/lecturenotes/QBI-Lecture04-BasicSegmentation.pdf",
+    "pdf":"https://imaginglectures.github.io/Quantitative-Big-Imaging-2026/lecturenotes/QBI-Lecture04-BasicSegmentation.pdf",
     "videos":[{
                 "label":"Part 1",
                 "link":"https://youtu.be/Aam3HfvEdcI",
@@ -99,7 +99,7 @@
                 "link":"https://youtu.be/uP4vQgWAS6o",
                 "icon":"figures/YouTube.svg"
             }],
-    "exercises":"https://github.com/ImagingLectures/Quantitative-Big-Imaging-2025/blob/main/Exercises/04-Segmentation"
+    "exercises":"https://github.com/ImagingLectures/Quantitative-Big-Imaging-2026/blob/main/Exercises/04-Segmentation"
 },
 {
     "index":5,
@@ -108,13 +108,13 @@
     "date":"20 Mar",
     "notebook":[{
         "label":"Part 1",
-        "link":"ImagingLectures/Quantitative-Big-Imaging-2025/blob/main/Lectures/Lecture-05/05-AdvancedSegmentation.ipynb"
+        "link":"ImagingLectures/Quantitative-Big-Imaging-2026/blob/main/Lectures/Lecture-05/05-AdvancedSegmentation.ipynb"
         },
         {
         "label":"Part 2",
-        "link":"ImagingLectures/Quantitative-Big-Imaging-2025/blob/main/Lectures/Lecture-05/05-SupervisedSegmentation.ipynb"
+        "link":"ImagingLectures/Quantitative-Big-Imaging-2026/blob/main/Lectures/Lecture-05/05-SupervisedSegmentation.ipynb"
         }],
-    "pdf":"https://imaginglectures.github.io/Quantitative-Big-Imaging-2025/lecturenotes/QBI-Lecture05-AdvancedSegmentation.pdf",
+    "pdf":"https://imaginglectures.github.io/Quantitative-Big-Imaging-2026/lecturenotes/QBI-Lecture05-AdvancedSegmentation.pdf",
     "videos":[{
                 "label":"Part 1",
                 "link":"https://youtu.be/SCqpvicW9P8",
@@ -125,7 +125,7 @@
                 "link":"https://youtu.be/SUe299oBxo8",
                 "icon":"figures/YouTube.svg"
             }],
-    "exercises":"https://github.com/ImagingLectures/Quantitative-Big-Imaging-2025/tree/main/Exercises/05-AdvancedSegmentation"
+    "exercises":"https://github.com/ImagingLectures/Quantitative-Big-Imaging-2026/tree/main/Exercises/05-AdvancedSegmentation"
 },
 {
     "index":6,
@@ -134,14 +134,14 @@
     "date":"27 Mar",
     "notebook":[{
         "label":"Part 1",
-        "link":"ImagingLectures/Quantitative-Big-Imaging-2025/blob/main/Lectures/Lecture-06/06-ShapeAnalysis.ipynb"
+        "link":"ImagingLectures/Quantitative-Big-Imaging-2026/blob/main/Lectures/Lecture-06/06-ShapeAnalysis.ipynb"
         },
         {
             "label":"Part 2",
-            "link":"ImagingLectures/Quantitative-Big-Imaging-2025/blob/main/Lectures/Lecture-06/06-AdvancedShapeAndTexture.ipynb"
+            "link":"ImagingLectures/Quantitative-Big-Imaging-2026/blob/main/Lectures/Lecture-06/06-AdvancedShapeAndTexture.ipynb"
         }
         ],
-    "pdf":"https://imaginglectures.github.io/Quantitative-Big-Imaging-2025/lecturenotes/QBI-Lecture06-ShapeAnalysis.pdf",
+    "pdf":"https://imaginglectures.github.io/Quantitative-Big-Imaging-2026/lecturenotes/QBI-Lecture06-ShapeAnalysis.pdf",
     "videos":[{
                 "label":"Part 1",
                 "link":"https://youtu.be/5FTfx4GX5zU",
@@ -152,7 +152,7 @@
                 "link":"https://youtu.be/TmsBYrrH7UY",
                 "icon":"figures/YouTube.svg"
             }],
-    "exercises":"https://github.com/ImagingLectures/Quantitative-Big-Imaging-2025/tree/main/Exercises/06-Shapes"
+    "exercises":"https://github.com/ImagingLectures/Quantitative-Big-Imaging-2026/tree/main/Exercises/06-Shapes"
 },
 {
     "index":7,
@@ -161,9 +161,9 @@
     "date":"3 Apr",
     "notebook":[{
         "label":"Part 1",
-        "link":"ImagingLectures/Quantitative-Big-Imaging-2025/blob/main/Lectures/Lecture-07/07-ComplexObjects.ipynb"
+        "link":"ImagingLectures/Quantitative-Big-Imaging-2026/blob/main/Lectures/Lecture-07/07-ComplexObjects.ipynb"
         }],
-    "pdf":"https://imaginglectures.github.io/Quantitative-Big-Imaging-2025/lecturenotes/QBI-Lecture07-ComplexShape.pdf",
+    "pdf":"https://imaginglectures.github.io/Quantitative-Big-Imaging-2026/lecturenotes/QBI-Lecture07-ComplexShape.pdf",
     "videos":[{
                 "label":"Part 1",
                 "link":"https://youtu.be/QfJ-PiUs1ZI",
@@ -174,7 +174,7 @@
                 "link":"https://youtu.be/LMaBzgtAq28",
                 "icon":"figures/YouTube.svg"
             }],
-    "exercises":"https://github.com/ImagingLectures/Quantitative-Big-Imaging-2025/tree/main/Exercises/07-ComplexObjects"
+    "exercises":"https://github.com/ImagingLectures/Quantitative-Big-Imaging-2026/tree/main/Exercises/07-ComplexObjects"
 },   
 {
     "index":8,
@@ -183,9 +183,9 @@
     "date":"10 Apr",
     "notebook":[{
         "label":"Part 1",
-        "link":"ImagingLectures/Quantitative-Big-Imaging-2025/blob/main/Lectures/Lecture-08/08-Statistics.ipynb"
+        "link":"ImagingLectures/Quantitative-Big-Imaging-2026/blob/main/Lectures/Lecture-08/08-Statistics.ipynb"
     }],
-    "pdf":"https://imaginglectures.github.io/Quantitative-Big-Imaging-2025/lecturenotes/QBI-Lecture08-Statistics.pdf",
+    "pdf":"https://imaginglectures.github.io/Quantitative-Big-Imaging-2026/lecturenotes/QBI-Lecture08-Statistics.pdf",
     "videos":[{
                 "label":"Part 1",
                 "link":"https://youtu.be/9axJ8tNn7OY",
@@ -196,7 +196,7 @@
                 "link":"https://youtu.be/LjHvb3PjmIg",
                 "icon":"figures/YouTube.svg"
             }],
-    "exercises":"https://github.com/ImagingLectures/Quantitative-Big-Imaging-2025/tree/main/Exercises/08-Statistics"
+    "exercises":"https://github.com/ImagingLectures/Quantitative-Big-Imaging-2026/tree/main/Exercises/08-Statistics"
 },
 {
     "index":9,
@@ -205,9 +205,9 @@
     "date":"17 Apr",
     "notebook":[{
         "label":"Part 1",
-        "link":"ImagingLectures/Quantitative-Big-Imaging-2025/blob/main/Lectures/Lecture-09/09-DynamicExperiments.ipynb"
+        "link":"ImagingLectures/Quantitative-Big-Imaging-2026/blob/main/Lectures/Lecture-09/09-DynamicExperiments.ipynb"
         }],
-    "pdf":"https://imaginglectures.github.io/Quantitative-Big-Imaging-2025/lecturenotes/QBI-Lecture09-DynamicExperiments.pdf",
+    "pdf":"https://imaginglectures.github.io/Quantitative-Big-Imaging-2026/lecturenotes/QBI-Lecture09-DynamicExperiments.pdf",
     "videos":[{
                 "label":"Part 1",
                 "link":"https://youtu.be/EB6tsHc-JJY",
@@ -247,9 +247,9 @@
     "date":"8 May",
     "notebook":[{
         "label":"Part 1",
-        "link":"ImagingLectures/Quantitative-Big-Imaging-2025/blob/main/Lectures/Lecture-10/10-BimodalExperiments.ipynb"
+        "link":"ImagingLectures/Quantitative-Big-Imaging-2026/blob/main/Lectures/Lecture-10/10-BimodalExperiments.ipynb"
         }],
-    "pdf":"https://imaginglectures.github.io/Quantitative-Big-Imaging-2025/lecturenotes/QBI-Lecture10-BimodalExperiments.pdf",
+    "pdf":"https://imaginglectures.github.io/Quantitative-Big-Imaging-2026/lecturenotes/QBI-Lecture10-BimodalExperiments.pdf",
     "videos":[{
                 "label":"Part 1",
                 "link":"https://youtu.be/OnGgKUt-oQc",
@@ -275,13 +275,13 @@
     "date":"15 May",
     "notebook":[{
         "label":"Part 1",
-        "link":"ImagingLectures/Quantitative-Big-Imaging-2025/blob/main/Lectures/Lecture-11/11-ScalingUp.ipynb"
+        "link":"ImagingLectures/Quantitative-Big-Imaging-2026/blob/main/Lectures/Lecture-11/11-ScalingUp.ipynb"
         },
         {
             "label":"Part 2",
-            "link":"ImagingLectures/Quantitative-Big-Imaging-2025/blob/main/Lectures/Lecture-11/11-WrapUpQBI.ipynb"
+            "link":"ImagingLectures/Quantitative-Big-Imaging-2026/blob/main/Lectures/Lecture-11/11-WrapUpQBI.ipynb"
         }],
-    "pdf":"https://imaginglectures.github.io/Quantitative-Big-Imaging-2025/lecturenotes/QBI-Lecture11-ScalingUp.pdf",
+    "pdf":"https://imaginglectures.github.io/Quantitative-Big-Imaging-2026/lecturenotes/QBI-Lecture11-ScalingUp.pdf",
     "videos":[{
                 "label":"Part 1",
                 "link":"https://youtu.be/MXkVplitRpk",
