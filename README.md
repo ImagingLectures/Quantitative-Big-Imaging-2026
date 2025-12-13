@@ -1,6 +1,6 @@
-# Quantitative Big Imaging Course 2025
+# Quantitative Big Imaging Course 2026
 
-The course web page [is here](https://imaginglectures.github.io/Quantitative-Big-Imaging-2025).
+The course web page [is here](https://imaginglectures.github.io/Quantitative-Big-Imaging-2026).
 
 ## Install the pixi environment manager
 ### Windows
