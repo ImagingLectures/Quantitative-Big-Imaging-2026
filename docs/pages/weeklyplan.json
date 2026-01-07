@@ -12,12 +12,12 @@
     "videos":[{
                 "label":"Part 1",
                 "link":"https://youtu.be/9RUx_-TzFw4",
-                "icon":"figures/YouTube.svg"
+                "icon":"figures/YouTube_OldRecording.svg"
             },
             {
                 "label":"Part 2",       
                 "link":"https://youtu.be/RlGglF21KaM",
-                "icon":"figures/YouTube.svg"
+                "icon":"figures/YouTube_OldRecording.svg"
             }],
     "exercises":"https://github.com/ImagingLectures/Quantitative-Big-Imaging-2026/tree/main/Exercises/01-Images"
 },
@@ -34,12 +34,12 @@
     "videos":[{
                 "label":"Part 1",
                 "link":"https://youtu.be/Jda0TScDPnw",
-                "icon":"figures/YouTube.svg"
+                "icon":"figures/YouTube_OldRecording.svg"
             },
             {
                 "label":"Part 2",       
                 "link":"https://youtu.be/CzulQD9j1w4",
-                "icon":"figures/YouTube.svg"
+                "icon":"figures/YouTube_OldRecording.svg"
             }],
     "exercises":"https://github.com/ImagingLectures/Quantitative-Big-Imaging-2026/tree/main/Exercises/02-Augmentation"
 },
@@ -56,17 +56,17 @@
     "videos":[{
                 "label":"Part 1a",
                 "link":"https://youtu.be/n0zyljMuVO4",
-                "icon":"figures/YouTube.svg"
+                "icon":"figures/YouTube_OldRecording.svg"
             },
             {
                 "label":"Part 1b",
                 "link":"https://youtu.be/JlYzsUrC1Es",
-                "icon":"figures/YouTube.svg"
+                "icon":"figures/YouTube_OldRecording.svg"
             },
             {
                 "label":"Part 2",       
                 "link":"https://youtu.be/qqy8ObfL3zc",
-                "icon":"figures/YouTube.svg"
+                "icon":"figures/YouTube_OldRecording.svg"
             }],
     "exercises":"https://github.com/ImagingLectures/Quantitative-Big-Imaging-2026/blob/main/Exercises/03-ImageEnhancement"
 },
@@ -87,17 +87,17 @@
     "videos":[{
                 "label":"Part 1",
                 "link":"https://youtu.be/Aam3HfvEdcI",
-                "icon":"figures/YouTube.svg"
+                "icon":"figures/YouTube_OldRecording.svg"
             },
             {
                 "label":"Part 1b",
                 "link":"https://youtu.be/9BnCYbIdhO0",
-                "icon":"figures/YouTube.svg"
+                "icon":"figures/YouTube_OldRecording.svg"
             },
             {
                 "label":"Part 2",       
                 "link":"https://youtu.be/uP4vQgWAS6o",
-                "icon":"figures/YouTube.svg"
+                "icon":"figures/YouTube_OldRecording.svg"
             }],
     "exercises":"https://github.com/ImagingLectures/Quantitative-Big-Imaging-2026/blob/main/Exercises/04-Segmentation"
 },
@@ -118,12 +118,12 @@
     "videos":[{
                 "label":"Part 1",
                 "link":"https://youtu.be/SCqpvicW9P8",
-                "icon":"figures/YouTube.svg"
+                "icon":"figures/YouTube_OldRecording.svg"
             },
             {
                 "label":"Part 2",       
                 "link":"https://youtu.be/SUe299oBxo8",
-                "icon":"figures/YouTube.svg"
+                "icon":"figures/YouTube_OldRecording.svg"
             }],
     "exercises":"https://github.com/ImagingLectures/Quantitative-Big-Imaging-2026/tree/main/Exercises/05-AdvancedSegmentation"
 },
@@ -145,12 +145,12 @@
     "videos":[{
                 "label":"Part 1",
                 "link":"https://youtu.be/5FTfx4GX5zU",
-                "icon":"figures/YouTube.svg"
+                "icon":"figures/YouTube_OldRecording.svg"
             },
             {
                 "label":"Part 2",       
                 "link":"https://youtu.be/TmsBYrrH7UY",
-                "icon":"figures/YouTube.svg"
+                "icon":"figures/YouTube_OldRecording.svg"
             }],
     "exercises":"https://github.com/ImagingLectures/Quantitative-Big-Imaging-2026/tree/main/Exercises/06-Shapes"
 },
@@ -167,12 +167,12 @@
     "videos":[{
                 "label":"Part 1",
                 "link":"https://youtu.be/QfJ-PiUs1ZI",
-                "icon":"figures/YouTube.svg"
+                "icon":"figures/YouTube_OldRecording.svg"
             },
             {
                 "label":"Part 2",       
                 "link":"https://youtu.be/LMaBzgtAq28",
-                "icon":"figures/YouTube.svg"
+                "icon":"figures/YouTube_OldRecording.svg"
             }],
     "exercises":"https://github.com/ImagingLectures/Quantitative-Big-Imaging-2026/tree/main/Exercises/07-ComplexObjects"
 },   
@@ -199,12 +199,12 @@
     "videos":[{
                 "label":"Part 1",
                 "link":"https://youtu.be/9axJ8tNn7OY",
-                "icon":"figures/YouTube.svg"
+                "icon":"figures/YouTube_OldRecording.svg"
             },
             {
                 "label":"Part 2",       
                 "link":"https://youtu.be/LjHvb3PjmIg",
-                "icon":"figures/YouTube.svg"
+                "icon":"figures/YouTube_OldRecording.svg"
             }],
     "exercises":"https://github.com/ImagingLectures/Quantitative-Big-Imaging-2026/tree/main/Exercises/08-Statistics"
 },
@@ -221,12 +221,12 @@
     "videos":[{
                 "label":"Part 1",
                 "link":"https://youtu.be/EB6tsHc-JJY",
-                "icon":"figures/YouTube.svg"
+                "icon":"figures/YouTube_OldRecording.svg"
             },
             {
                 "label":"Part 2",       
                 "link":"https://youtu.be/I2xgrXz9PL0",
-                "icon":"figures/YouTube.svg"
+                "icon":"figures/YouTube_OldRecording.svg"
             }],
     "exercises":""
 },
@@ -243,17 +243,17 @@
     "videos":[{
                 "label":"Part 1",
                 "link":"https://youtu.be/OnGgKUt-oQc",
-                "icon":"figures/YouTube.svg"
+                "icon":"figures/YouTube_OldRecording.svg"
             },
             {
                 "label":"Part 2",       
                 "link":"https://youtu.be/XilqPWzIdSY", 
-                "icon":"figures/YouTube.svg"
+                "icon":"figures/YouTube_OldRecording.svg"
             },
             {
                 "label":"Tutorial",       
                 "link":"https://youtu.be/1VjxXDZHD64", 
-                "icon":"figures/YouTube.svg"
+                "icon":"figures/YouTube_OldRecording.svg"
             }
     ],
     "exercises":""
@@ -275,12 +275,12 @@
     "videos":[{
                 "label":"Part 1",
                 "link":"https://youtu.be/MXkVplitRpk",
-                "icon":"figures/YouTube.svg"
+                "icon":"figures/YouTube_OldRecording.svg"
             },
             {
                 "label":"Part 2",       
                 "link":"https://youtu.be/qxbSuDPQ7t4",
-                "icon":"figures/YouTube.svg"
+                "icon":"figures/YouTube_OldRecording.svg"
             }],
     "exercises":""
 },
