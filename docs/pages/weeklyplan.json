@@ -3,7 +3,7 @@
     "index":1,
     "icon":"figures/np_introduction_3382970_000000.svg",
     "title":"Introduction and Workflows",
-    "date":"20 Feb",
+    "date":"19 Feb",
     "notebook":[{
         "label":"Part 1",
         "link":"ImagingLectures/Quantitative-Big-Imaging-2026/blob/main/Lectures/Lecture-01/01-Introduction.ipynb"
@@ -25,7 +25,7 @@
     "index":2,
     "icon":"figures/np_data_3132352_000000.svg",
     "title":"Building and Augmenting Datasets",
-    "date":"27 Feb",
+    "date":"26 Feb",
     "notebook":[{
         "label":"Part 1",
         "link":"ImagingLectures/Quantitative-Big-Imaging-2026/blob/main/Lectures/Lecture-02/02-Datasets.ipynb"
@@ -47,7 +47,7 @@
     "index":3,
     "icon":"figures/np_photo-filters_2344219_000000.svg",
     "title":"Image enhancement",
-    "date":"6 Mar",
+    "date":"5 Mar",
     "notebook":[{
         "label":"Part 1",
         "link":"ImagingLectures/Quantitative-Big-Imaging-2026/blob/main/Lectures/Lecture-03/03-ImageEnhancement.ipynb"
@@ -74,7 +74,7 @@
     "index":4,
     "icon":"figures/np_segmentation_4159870_000000.svg",
     "title":"Basic Segmentation, Discrete Binary Structures",
-    "date":"13 Mar",
+    "date":"12 Mar",
     "notebook":[{
         "label":"Part 1",
         "link":"ImagingLectures/Quantitative-Big-Imaging-2026/blob/main/Lectures/Lecture-04/04-BasicSegmentation.ipynb"
@@ -105,7 +105,7 @@
     "index":5,
     "icon":"figures/np_machine-learning_4474871_000000.svg",
     "title":"Advanced Segmentation",
-    "date":"20 Mar",
+    "date":"19 Mar",
     "notebook":[{
         "label":"Part 1",
         "link":"ImagingLectures/Quantitative-Big-Imaging-2026/blob/main/Lectures/Lecture-05/05-AdvancedSegmentation.ipynb"
@@ -131,7 +131,7 @@
     "index":6,
     "icon":"figures/np_shape_2328381_000000.svg",
     "title":"Analyzing Single Objects, Shape and Texture",
-    "date":"27 Mar",
+    "date":"26 Mar",
     "notebook":[{
         "label":"Part 1",
         "link":"ImagingLectures/Quantitative-Big-Imaging-2026/blob/main/Lectures/Lecture-06/06-ShapeAnalysis.ipynb"
@@ -158,7 +158,7 @@
     "index":7,
     "icon":"figures/np_machine-learning_1701180_000000.svg",
     "title":"Analyzing Complex Objects",
-    "date":"3 Apr",
+    "date":"2 Apr",
     "notebook":[{
         "label":"Part 1",
         "link":"ImagingLectures/Quantitative-Big-Imaging-2026/blob/main/Lectures/Lecture-07/07-ComplexObjects.ipynb"
@@ -177,10 +177,20 @@
     "exercises":"https://github.com/ImagingLectures/Quantitative-Big-Imaging-2026/tree/main/Exercises/07-ComplexObjects"
 },   
 {
+    "index":"-",
+    "icon":"figures/np_easter-bunny_2288018_000000.svg",
+    "title":"Easter break (no lecture)",
+    "date":"9 Apr",
+    "notebook":[],
+    "pdf":"",
+    "videos": [],
+    "exercises":""
+},
+{
     "index":8,
     "icon":"figures/np_statistics_4108630_000000.svg",
     "title":"Statistics, Prediction, and Reproducibility",
-    "date":"10 Apr",
+    "date":"16 Apr",
     "notebook":[{
         "label":"Part 1",
         "link":"ImagingLectures/Quantitative-Big-Imaging-2026/blob/main/Lectures/Lecture-08/08-Statistics.ipynb"
@@ -202,7 +212,7 @@
     "index":9,
     "icon":"figures/np_timing_4137191_000000.png",
     "title":"Dynamic Experiments",
-    "date":"17 Apr",
+    "date":"23 Apr",
     "notebook":[{
         "label":"Part 1",
         "link":"ImagingLectures/Quantitative-Big-Imaging-2026/blob/main/Lectures/Lecture-09/09-DynamicExperiments.ipynb"
@@ -221,30 +231,10 @@
     "exercises":""
 },
 {
-    "index":"-",
-    "icon":"figures/np_easter-bunny_2288018_000000.svg",
-    "title":"Easter break (no lecture)",
-    "date":"24 Apr",
-    "notebook":[],
-    "pdf":"",
-    "videos": [],
-    "exercises":""
-},
-{
-    "index":"-",
-    "icon":"figures/np_flower_752007_000000.svg",
-    "title":"Labourers day (no lecture) - Project consultation",
-    "date":"1 May",
-    "notebook":[],
-    "pdf":"",
-    "videos": [],
-    "exercises":""
-},
-{
     "index":10,
     "icon":"figures/np_combine_156599_000000.svg",
     "title":"Imaging with multiple modalities - prerecorded lecture",
-    "date":"8 May",
+    "date":"30 Apr",
     "notebook":[{
         "label":"Part 1",
         "link":"ImagingLectures/Quantitative-Big-Imaging-2026/blob/main/Lectures/Lecture-10/10-BimodalExperiments.ipynb"
@@ -272,7 +262,7 @@
     "index":11,
     "icon":"figures/np_computing_4145847_000000.svg",
     "title":"Scaling Up / Big Data",
-    "date":"15 May",
+    "date":"7 May",
     "notebook":[{
         "label":"Part 1",
         "link":"ImagingLectures/Quantitative-Big-Imaging-2026/blob/main/Lectures/Lecture-11/11-ScalingUp.ipynb"
@@ -295,10 +285,30 @@
     "exercises":""
 },
 {
+    "index":"-",
+    "icon":"figures/np_flower_752007_000000.svg",
+    "title":"Ascension - Project consultation during the week",
+    "date":"14 May",
+    "notebook":[],
+    "pdf":"",
+    "videos": [],
+    "exercises":""
+},
+{
+    "index":"-",
+    "icon":"figures/np_flower_752007_000000.svg",
+    "title":"No lecture - Project consultation",
+    "date":"21 May",
+    "notebook":[],
+    "pdf":"",
+    "videos": [],
+    "exercises":""
+},
+{
     "index":12,
     "icon":"figures/np_financial-presentation_818023_000000.svg",
     "title":"Project presentation. Program T.B.D.",
-    "date":"22 May",
+    "date":"28 May",
     "notebook":[],
     "pdf":"",
     "videos": [],
