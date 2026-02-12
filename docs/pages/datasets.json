@@ -38,5 +38,14 @@
   "href" : "https://domingomery.ing.puc.cl/material/gdxray/",
   "license" : "Mixed",
   "date" : "2025-03-14"
+},
+{
+  "index" : 6,
+  "title" : "TomoBank",
+  "description" : "Open-Access X-ray data set",
+  "href" : "https://tomobank.readthedocs.io/en/latest/",
+  "license" : "Mixed",
+  "date" : "2026-02-12"
 }
 ]
+
