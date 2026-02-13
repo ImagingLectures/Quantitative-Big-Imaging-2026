@@ -1,4 +1,9 @@
-format: jb-article
-root: preface
-sections:
-- file: 01-Introduction
+format: jb-book
+root: index
+
+chapters:
+  - file: 01-Introduction
+
+defaults:
+  numbered: true
+  maxdepth: 2
