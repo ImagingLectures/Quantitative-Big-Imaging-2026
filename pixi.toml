@@ -54,3 +54,13 @@ ipyvolume = "*"
 ipyvuetify = "*"
 shapely = "*"
 SimpleITK = "*"
+
+# PyPI dependencies for all platforms
+#[pypi-dependencies]
+#tensorflow = "*"
+
+# macOS-only PyPI dependency
+[target.osx-arm64.pypi-dependencies]
+tensorflow-macos = "*"
+tensorflow-metal = "*"
+tensorflow-datasets = "*"
