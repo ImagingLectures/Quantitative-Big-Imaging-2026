@@ -6,7 +6,7 @@
 - Train a simple model and evaluate the effect of using augmented data
 
 ## Preparation
-- Run `bash setup.sh` from the terminal. You should see the python .venv getting updated and the zip file uncompressed.
+- Run `bash setup.sh` from the terminal from the exercise directory. You should see the python .venv getting updated and the zip file uncompressed.
 
 ## Exercise
 1. Evaluate the nearest neighbour baseline "properly" in this notebook.
