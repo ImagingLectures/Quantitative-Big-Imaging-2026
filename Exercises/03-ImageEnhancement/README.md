@@ -6,10 +6,7 @@
 - Filtering performance evaluation
 
 ## Preparation
-- Accept assignment: https://classroom.github.com/a/f3B-OVIQ
-- Clone your student repository (```git clone```)
-- Run `uv sync` and check everything is correct with `uv run hello.py`
-- Start Jupyter
+- Run `bash setup.sh` from the terminal from the exercise directory. You should see the python .venv getting updated and the zip file uncompressed.
 
 ## Exercise
 1. Evaluate on images the SNR according to different definitions
