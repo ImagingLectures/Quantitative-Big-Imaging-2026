@@ -6,7 +6,7 @@
 - Filtering performance evaluation
 
 ## Preparation
-- Run `bash setup.sh` from the terminal from the exercise directory. You should see the python .venv getting updated and the zip file uncompressed.
+- Run `bash setup.sh` from the terminal from the exercise directory. You should see the python .venv getting updated.
 
 ## Exercise
 1. Evaluate on images the SNR according to different definitions
