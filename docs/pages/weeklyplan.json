@@ -54,19 +54,14 @@
         }],
     "pdf":"https://imaginglectures.github.io/Quantitative-Big-Imaging-2026/lecturenotes/QBI-Lecture03-ImageEnhancement.pdf",
     "videos":[{
-                "label":"Part 1a",
-                "link":"https://youtu.be/n0zyljMuVO4",
-                "icon":"figures/YouTube_OldRecording.svg"
-            },
-            {
-                "label":"Part 1b",
-                "link":"https://youtu.be/JlYzsUrC1Es",
-                "icon":"figures/YouTube_OldRecording.svg"
+                "label":"Part 1",
+                "link":"https://youtu.be/7VM4ofRj4xc",
+                "icon":"figures/YouTube.svg"
             },
             {
                 "label":"Part 2",       
-                "link":"https://youtu.be/qqy8ObfL3zc",
-                "icon":"figures/YouTube_OldRecording.svg"
+                "link":"https://youtu.be/7V4RPS5ereY",
+                "icon":"figures/YouTube.svg"
             }],
     "exercises":"https://github.com/ImagingLectures/Quantitative-Big-Imaging-2026/blob/main/Exercises/03-ImageEnhancement"
 },
