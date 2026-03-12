@@ -39,7 +39,7 @@
             {
                 "label":"Part 2",       
                 "link":"https://youtu.be/wwLXerCIYUI",
-                "icon":"figures/YouTube_OldRecording.svg"
+                "icon":"figures/YouTube.svg"
             }],
     "exercises":"https://github.com/ImagingLectures/Quantitative-Big-Imaging-2026/tree/main/Exercises/02-Augmentation"
 },
@@ -81,13 +81,8 @@
     "pdf":"https://imaginglectures.github.io/Quantitative-Big-Imaging-2026/lecturenotes/QBI-Lecture04-BasicSegmentation.pdf",
     "videos":[{
                 "label":"Part 1",
-                "link":"https://youtu.be/Aam3HfvEdcI",
-                "icon":"figures/YouTube_OldRecording.svg"
-            },
-            {
-                "label":"Part 1b",
-                "link":"https://youtu.be/9BnCYbIdhO0",
-                "icon":"figures/YouTube_OldRecording.svg"
+                "link":"https://youtu.be/iTCsma0cONM",
+                "icon":"figures/YouTube.svg"
             },
             {
                 "label":"Part 2",       
