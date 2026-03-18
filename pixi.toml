@@ -35,6 +35,7 @@ jupyter_contrib_nbextensions = "*"
 rise = "*"
 bokeh = "*"
 pyvista = "*"
+graphviz = "*"          # provides `dot`
 python-graphviz = "*"
 pydot = "*"
 trame = "*"
