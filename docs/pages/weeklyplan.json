@@ -156,13 +156,13 @@
     "pdf":"https://imaginglectures.github.io/Quantitative-Big-Imaging-2026/lecturenotes/QBI-Lecture07-ComplexShape.pdf",
     "videos":[{
                 "label":"Part 1",
-                "link":"https://youtu.be/QfJ-PiUs1ZI",
-                "icon":"figures/YouTube_OldRecording.svg"
+                "link":"https://youtu.be/oKtKBOONiOg",
+                "icon":"figures/YouTube.svg"
             },
             {
                 "label":"Part 2",       
-                "link":"https://youtu.be/LMaBzgtAq28",
-                "icon":"figures/YouTube_OldRecording.svg"
+                "link":"https://youtu.be/EgECvlo2Fmc",
+                "icon":"figures/YouTube.svg"
             }],
     "exercises":"https://github.com/ImagingLectures/Quantitative-Big-Imaging-2026/tree/main/Exercises/07-ComplexObjects"
 },   
