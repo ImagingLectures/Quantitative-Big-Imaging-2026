@@ -1,7 +1,8 @@
 #!/bin/bash
 
 if command -v pixi &> /dev/null && pixi run which "jupyter-book" &> /dev/null; then
-    pixi run jupyter-book build Lectures/Lecture-06 --builder pdflatex
+    pixi run jupyter-book build Lectures/Lecture-06 --builder pdflatex -v
+# used --builder pdflatex
 else
     jupyter-book build Lectures/Lecture-06 --builder pdflatex
 fi
