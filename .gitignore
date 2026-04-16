@@ -119,3 +119,7 @@ Exercises/05-AdvancedSegmentation/images
 Exercises/05-AdvancedSegmentation/annotations
 Exercises/05-AdvancedSegmentation/lightning_logs
 Exercises/06-Shapes/input
+
+*.npy
+_build
+*.old
