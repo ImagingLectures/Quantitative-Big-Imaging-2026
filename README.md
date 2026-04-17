@@ -24,8 +24,15 @@ Tensorflow requires GPU support. This differs between MacOS (uses Metal) and Win
 
 #### For MacOS
 ```
-pixi run pip install tensorflow-macos tensorflow-metal tensorflow-datasets```
+pixi run pip install tensorflow-macos tensorflow-metal tensorflow-datasets
 ```
+
+## Data Setup
+The large data files for this course are managed via Polybox. To download and setup the data, run:
+```bash
+python3 scripts/setup_data.py
+```
+This will download the necessary ZIP archive, extract it to the correct locations, and verify the data integrity.
 
 ## Run a jupyter notebook
 To run jupyter notebook you need to start a terminal and type
