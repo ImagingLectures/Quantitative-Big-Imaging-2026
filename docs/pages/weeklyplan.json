@@ -215,13 +215,13 @@
     "pdf":"https://imaginglectures.github.io/Quantitative-Big-Imaging-2026/lecturenotes/QBI-Lecture09-DynamicExperiments.pdf",
     "videos":[{
                 "label":"Part 1",
-                "link":"https://youtu.be/EB6tsHc-JJY",
-                "icon":"figures/YouTube_OldRecording.svg"
+                "link":"https://youtu.be/QIP1k9K2sPQ",
+                "icon":"figures/YouTube.svg"
             },
             {
                 "label":"Part 2",       
-                "link":"https://youtu.be/I2xgrXz9PL0",
-                "icon":"figures/YouTube_OldRecording.svg"
+                "link":"https://youtu.be/gv8jR0Dkl_g",
+                "icon":"figures/YouTube.svg"
             }],
     "exercises":""
 },
