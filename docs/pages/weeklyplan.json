@@ -237,13 +237,18 @@
     "pdf":"https://imaginglectures.github.io/Quantitative-Big-Imaging-2026/lecturenotes/QBI-Lecture10-BimodalExperiments.pdf",
     "videos":[{
                 "label":"Part 1",
-                "link":"https://youtu.be/OnGgKUt-oQc",
-                "icon":"figures/YouTube_OldRecording.svg"
+                "link":"https://youtu.be/RiN2xNpNTqQ",
+                "icon":"figures/YouTube.svg"
             },
             {
                 "label":"Part 2",       
-                "link":"https://youtu.be/XilqPWzIdSY", 
-                "icon":"figures/YouTube_OldRecording.svg"
+                "link":"https://youtu.be/YFNSrXWy3Qo", 
+                "icon":"figures/YouTube.svg"
+            },
+            {
+                "label":"Part 3",       
+                "link":"https://youtu.be/554bXLpfDuc", 
+                "icon":"figures/YouTube.svg"
             },
             {
                 "label":"Tutorial",       
