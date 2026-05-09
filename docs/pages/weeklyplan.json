@@ -274,13 +274,18 @@
     "pdf":"https://imaginglectures.github.io/Quantitative-Big-Imaging-2026/lecturenotes/QBI-Lecture11-ScalingUp.pdf",
     "videos":[{
                 "label":"Part 1",
-                "link":"https://youtu.be/MXkVplitRpk",
-                "icon":"figures/YouTube_OldRecording.svg"
+                "link":"https://youtu.be/GbZMaH0Wgbk",
+                "icon":"figures/YouTube.svg"
             },
             {
                 "label":"Part 2",       
-                "link":"https://youtu.be/qxbSuDPQ7t4",
-                "icon":"figures/YouTube_OldRecording.svg"
+                "link":"https://youtu.be/tn4lqU5rkUo",
+                "icon":"figures/YouTube.svg"
+            },
+            {
+                "label":"Wrapup",       
+                "link":"https://youtu.be/CRyysmKxtFk",
+                "icon":"figures/YouTube.svg"
             }],
     "exercises":""
 },
